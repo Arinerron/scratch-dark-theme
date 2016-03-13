@@ -8,4 +8,4 @@ To use this theme, simply install a userscript manager like Stylish, Greasemonke
 
 
 
-Someday I'll document this later. 'Till then... :P
+Someday I'll document this more. 'Till then... :P
