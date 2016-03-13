@@ -1,0 +1,728 @@
+span.tenmil {
+    font-weight: bold;
+}
+
+div.box-head {
+    background-color: #616161;
+    color: #ffffff;
+    border-color: #000000;
+}
+
+div.box-head h2 {
+    color: #a3ff9e;
+    border-color: #61ff61;
+}
+
+li.comments-tab a {
+    background-color: #000000;
+    border-color: #2e2e2e;
+}
+
+li.admin-tab.last a {
+    background-color: #000000;
+    border-color: #2e2e2e;
+}
+
+li.all-tab.active.first a {
+    border-color: #2e2e2e;
+    background-color: #6b6b6b;
+}
+
+#pagewrapper {
+    background-color: #404040;
+}
+
+div.box-content.v-tabs-content {
+    background-color: #242424;
+}
+
+ul.read li {
+    color: #00ff09;
+    letter-spacing: 1px;
+}
+
+ul.read li a {
+    color: #00ff11;
+}
+
+ul.read h3 {
+    color: #ffffff;
+}
+
+div.col-4 {
+    color: #000000;
+}
+
+div.cols {
+    color: #000000;
+}
+
+div.innerwrap {
+    background-color: #292929;
+    border-width: 1px;
+    border-color: #00ff11;
+    border-style: groove;
+}
+
+#project-create {
+    color: #15ff00;
+    border-color: #00ff11;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#search-input {
+    color: #15ff00;
+    background-color: #5c5c5c;
+}
+
+span.user-name.dropdown-toggle:hover {
+    background-color: #212121;
+    transition: 1s;
+}
+
+span.user-name.dropdown-toggle {
+    color: #15ff00;
+    font-weight: bold;
+    transition: 1s;
+}
+
+ul.site-nav li a {
+    color: #15ff00;
+    transition: 1s;
+    border-width: 1px;
+    border-color: #00ff11;
+    border-style: solid;
+    margin-top: -1px;
+}
+
+ul.site-nav li a:hover {
+    background-color: #212121;
+    transition: 1s;
+}
+
+#footer {
+    background-color: #000000;
+    border-color: #001408;
+}
+
+div.notification-feed {
+    border-color: #15ff00;
+    border-width: 2px;
+    border-style: solid;
+}
+
+li.last a {
+    border-color: #00ff11;
+    border-style: solid;
+    border-width: 1px;
+}
+
+ul.user-nav li a {
+    background-color: #000000;
+    color: #00ff11;
+    border-color: #00ff11;
+    border-style: solid;
+    border-width: 1px;
+    border-left-width: 0;
+}
+
+ul.user-nav {
+    background-color: #000000;
+    color: #00ff11;
+    border-color: #00ff11;
+    border-width: 1px;
+    border-style: solid;
+}
+
+li.logout.divider form input {
+    border-color: #00ff11;
+    background-color: #383838;
+    color: #00ff11;
+}
+
+#language-selection {
+    background-color: #7a7a7a;
+    color: #000000;
+}
+
+ul li a {
+    color: #0dff00;
+}
+
+p.profile-details {
+    color: #ffffff;
+}
+
+div.inner.clearfix {
+    background-color: #b8b8b8;
+    color: #000000;
+}
+
+div.doing {
+    background-color: #b8b8b8;
+}
+
+div.footer {
+    background-color: #b8b8b8;
+}
+
+div.box-content.slider-carousel.horizontal.sliderCarousel {
+    background-color: #b8b8b8;
+}
+
+input.hidden {
+    color: #00ff09;
+    background-color: #d1d1d1;
+    font-variant: small-caps;
+}
+
+span.time {
+    color: #4a4a4a;
+}
+
+li div a {
+    color: #0d9900;
+}
+
+a.slider-carousel-control.right.arrow-right.on {
+    background-color: #000000;
+}
+
+a.slider-carousel-control.left.arrow-left.off {
+    background-color: #000000;
+}
+
+div.box-content.slider-carousel.horizontal {
+    background-color: #b8b8b8;
+}
+
+span.title a {
+    color: #1ab30d;
+}
+
+img.lazy {
+    border-color: #004208;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 100px;
+    background-color: #a8a8a8;
+    color: #d9d9d9;
+}
+
+div.action-bar.white.scroll {
+    background-color: #999999;
+}
+
+div.box {
+    background-color: #737373;
+    border-style: dotted;
+    border-width: 1px;
+    border-color: #00ff09;
+}
+
+li.top-level-reply {
+    background-color: #808080;
+    border-color: #000000;
+}
+
+div.content {
+    color: #000000;
+}
+
+img.avatar {
+    border-radius: 100px;
+}
+
+div.more-replies {
+    background-color: #a1a1a1;
+}
+
+span.pulldown {
+    background-color: #000000;
+    color: #0dff00;
+}
+
+span.actions.report {
+    color: #0f0f0f;
+    padding: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-style: dotted;
+    border-color: #31c200;
+    border-width: 2px;
+    background-color: #4d7025;
+}
+
+ul.comments {
+    background-color: #808080;
+}
+
+div.name a {
+    color: #00ff09;
+    font-weight: bold;
+}
+
+div.content a {
+    color: #005203;
+}
+
+#comment-form {
+    background-color: #404040;
+    border-style: dotted;
+    border-width: 1px;
+    border-color: #00ff09;
+}
+
+#chars-left:after {
+    content: "00000000000000";
+}
+
+div.control-group.tooltip.right textarea {
+    background-color: #0a0a0a;
+    color: #22ff00;
+}
+
+#comments {
+    background-color: #525252;
+}
+
+div.box-content {
+    background-color: #616161;
+    border-color: #000000;
+}
+
+span.image {
+    background-color: #616161;
+    border-style: none;
+}
+
+div.media-grid ul {
+    background-color: #616161;
+}
+
+div.media-grid {
+    background-color: #616161;
+}
+
+div.stage {
+    background-color: #5e5e5e;
+}
+
+#scratch {
+    background-color: #000000;
+    color: #5e5e5e;
+    border-color: #5e5e5e;
+    font-weight: bold;
+}
+
+div.editable.read.instructions form textarea {
+    color: #000000;
+    background-color: #bdbdbd;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: #00ff00;
+}
+
+div.text-block b {
+    color: #ffffff;
+}
+
+span.tag {
+    background-color: #000000;
+    color: #009e20;
+    border-color: #00ff26;
+    border-style: dotted;
+    border-width: 2px;
+}
+
+form h2 input {
+    background-color: #bdbdbd;
+    border-style: dotted;
+    border-color: #2bff00;
+    border-width: 2px;
+}
+
+div.button {
+    background-color: #424242;
+    color: #000000;
+}
+
+div.actions.clearfix {
+    background-color: #858585;
+}
+
+span.dropdown-toggle.text.black {
+    color: #00ff09;
+}
+
+span.love.icon.on {
+    color: #00ff09;
+}
+
+span.favorite.icon.on {
+    color: #00ff09;
+}
+
+span.icon.views {
+    color: #00ff09;
+}
+
+span.icon.remix-tree {
+    color: #00ff09;
+}
+
+div.action.tooltip.bottom {
+    border-color: #000000;
+}
+
+a.mystuff-icon {
+    color: #808080;
+}
+
+#view {
+    background-color: #383838;
+}
+
+li a p {
+    color: #dbdbdb;
+}
+
+div.box-header {
+    background-color: #a8a8a8;
+    color: #00b30c;
+    border-color: #000000;
+}
+
+div.box-header h4 {
+    color: #2c8500;
+}
+
+a.thumbnail-image img {
+    border-radius: 100px;
+}
+
+li a img {
+    border-radius: 100px;
+}
+
+#featured-project img {
+    border-radius: 100px;
+    border-style: none;
+}
+
+#featured-project div {
+    background-color: #000000;
+    color: #00ff00;
+    border-color: #40ff00;
+    border-width: 2px;
+    border-style: dotted;
+}
+
+p.overview {
+    color: #4d4d4d;
+}
+
+div.viewport {
+    border-color: #40ff00;
+    border-width: 2px;
+    border-style: dotted;
+}
+
+div.avatar a img {
+    border-radius: 100px;
+}
+
+img.user-icon {
+    border-radius: 100px;
+}
+
+span.unfollow.text {
+    border-radius: 100px;
+}
+
+div.box-head h4 {
+    color: #ebebeb;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+div.box-head a {
+    color: #00ff00;
+}
+
+li.active a {
+    background-color: #404040;
+    border-color: #000000;
+}
+
+#user-tag {
+    background-color: #424242;
+    color: #33ff00;
+}
+
+div.button.grey.small span {
+    background-color: #6b6b6b;
+}
+
+span.dropdown-toggle.black {
+    background-color: #d4d4d4;
+}
+
+span.selected {
+    background-color: #d6d6d6;
+}
+
+div.tclcon {
+    color: #c4ff00;
+}
+
+td.tcr a {
+    color: #ffffff;
+}
+
+div.tclcon h3 a {
+    color: #0aff0a;
+}
+
+th.tcr {
+    background-color: #c7c7c7;
+}
+
+th.tcl {
+    background-color: #c7c7c7;
+}
+
+th.tc3 {
+    background-color: #c7c7c7;
+}
+
+th.tc2 {
+    background-color: #c7c7c7;
+}
+
+td.tc2 {
+    background-color: #c7c7c7;
+}
+
+td.tc3 {
+    background-color: #c7c7c7;
+}
+
+div.gr_ver_2 {
+    background-color: #878787;
+}
+
+textarea.markup.markItUpEditor.gr_ver_2 {
+    background-color: #292929;
+}
+
+form label strong {
+    color: #000000;
+}
+
+div.box-content form blockquote {
+    background-color: #999999;
+}
+
+p.form-help {
+    color: #fcfcfc;
+}
+
+button.grey.button {
+    background-color: #000000;
+}
+
+button.grey.button span {
+    background-color: #d6d6d6;
+    color: #0e6b00;
+}
+
+p.form-submit {
+    color: #d4d4d4;
+}
+
+div.postright {
+    background-color: #616161;
+}
+
+div.postfootright ul {
+    background-color: #616161;
+}
+
+div.postleft dl {
+    background-color: #b3b3b3;
+}
+
+div.postfootright {
+    background-color: #b3b3b3;
+    color: #b3b3b3;
+}
+
+textarea.markup.markItUpEditor {
+    background-color: #858585;
+    color: #00d600;
+}
+
+dd.postavatar a img {
+    border-radius: 100px;
+    border-style: solid;
+    border-color: #008f99;
+    border-width: 2px;
+}
+
+button.follow-button.button.blue {
+    background-color: #2e2e2e;
+    color: #000000;
+}
+
+div.thumb-with-subtext a img {
+    background-color: #4d4d4d;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: #008f99;
+    border-width: 2px;
+}
+
+div.sub-box a img {
+    border-radius: 100px;
+    border-style: solid;
+    border-color: #008f99;
+    border-width: 2px;
+}
+
+p.sub-box-content {
+    color: #cccccc;
+}
+
+div.box-content.clearfix p {
+    color: #e6e6e6;
+}
+
+div.box-content.clearfix {
+    color: #e6e6e6;
+}
+
+div.general h1 {
+    color: #dbdbdb;
+}
+
+div.inner {
+    background-color: #666666;
+}
+
+div.media-thumb a img {
+    border-radius: 100px;
+    border-style: solid;
+    border-color: #008f99;
+    border-width: 2px;
+    background-color: #7a7a7a;
+    color: #424242;
+}
+
+span.text {
+    background-color: #424242;
+}
+
+a.button.grey.small span {
+    background-color: #030303;
+}
+
+div.dropdown-menu.radio-style ul li {
+    background-color: #000000;
+    color: #5eff0d;
+}
+
+div.field-wrapper span {
+    color: #ffffff;
+}
+
+select.country {
+    background-color: #121212;
+    color: #00ff11;
+}
+
+div.unconfirmed-email p {
+    color: #f7f7f7;
+}
+
+#id_email_address {
+    background-color: #000000;
+    color: #00e31a;
+}
+
+#email-change button {
+    background-color: #000000;
+    color: #000000;
+}
+
+div.unconfirmed-email h3 {
+    color: #0a3300;
+    background-color: #ff0000;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    line-height: 50px;
+}
+
+#navigation {
+    background-color: #545454;
+}
+
+div.dropdown.login-dropdown.with-arrow.open {
+    background-color: #000000;
+}
+
+input.input {
+    background-color: #333333;
+    color: #00ff09;
+}
+
+button.button.submit-button.white {
+    background-color: #212121;
+    color: #00ff00;
+}
+
+div.tip-header h5 {
+    background-color: #000000;
+}
+
+div.modal-body {
+    background-color: #b5b5b5;
+}
+
+div.modal-footer {
+    background-color: #b5b5b5;
+}
+
+div.buttons-right a {
+    color: #008c00;
+}
+
+button.button.primary {
+    color: #008c00;
+    background-color: #000000;
+}
+
+div.modal-header h3 {
+    color: #008c00;
+}
+
+div.modal-header {
+    background-color: #919191;
+    color: #00ff00;
+}
+
+div.img-container img {
+    border-raduis: 100px;
+}
+
+span.follow.text {
+    color: #e3e3e3;
+}
+
+ul.media-grid.curators li {
+    background-color: #363636;
+}
+
