@@ -715,7 +715,7 @@ div.modal-header {
 }
 
 div.img-container img {
-    border-raduis: 100px;
+    border-radius: 100px;
 }
 
 span.follow.text {
@@ -724,5 +724,9 @@ span.follow.text {
 
 ul.media-grid.curators li {
     background-color: #363636;
+}
+
+li.reply.highlighted {
+    background-color: #b5b5b5;
 }
 
