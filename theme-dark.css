@@ -690,6 +690,7 @@ div.tip-header h5 {
 
 div.modal-body {
     background-color: #b5b5b5;
+    display: none;
 }
 
 div.modal-footer {
@@ -730,3 +731,26 @@ li.reply.highlighted {
     background-color: #b5b5b5;
 }
 
+li.highlighted {
+    background-color: #aebfaf;
+}
+
+textarea.gr_ver_2 {
+    color: #000000;
+}
+
+div.gr_ver_2 span gr_block {
+    color: #000000;
+}
+
+div.confirm-email.banner {
+    display: none;
+}
+
+div.ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix.ui-draggable-handle {
+    display: none;
+}
+
+ul.unread {
+    background-color: #999999;
+}
