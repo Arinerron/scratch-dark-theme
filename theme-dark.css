@@ -754,3 +754,9 @@ div.ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix.ui-drag
 ul.unread {
     background-color: #999999;
 }
+
+div.alert.alert-info {
+    background-color: #9e0000;
+    color: #bfbfbf;
+}
+
