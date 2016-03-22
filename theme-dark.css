@@ -772,3 +772,17 @@ div.body {
     background-color: #b3b3b3;
 }
 
+ul.dropdown.open {
+    background-color: #000000;
+    color: #000000;
+}
+
+li.divider a {
+    border-color: #00ff26;
+    border-top-width: 1px;
+    border-style: solid;
+    border-bottom-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+}
+
